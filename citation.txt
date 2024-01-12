@@ -1,0 +1,7 @@
+@inproceedings{REPO072,
+    author = "Suvorov, Roman and Logacheva, Elizaveta and Mashikhin, Anton and Remizova, Anastasia and Ashukha, Arsenii and Silvestrov, Aleksei and Kong, Naejin and Goka, Harshith and Park, Kiwoong and Lempitsky, Victor",
+    booktitle = "Proceedings of the IEEE/CVF winter conference on applications of computer vision",
+    pages = "2149--2159",
+    title = "{Resolution-Robust Large Mask Inpainting with Fourier Convolutions}",
+    year = "2022"
+}
